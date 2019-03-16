@@ -2236,13 +2236,34 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
+
+	#zero {
+		background: url("teamhash extra 4.jpg");
+		/* url("../../images/one.jpg"); */
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#work {
+		background: url("teamhash page 4.jpg");
+		/* url("../../images/one.jpg"); */
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background: url("treamhashpage 2 b.jpg");
+		/* url("../../images/one.jpg"); */
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		/* background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed; */
+		/* background-position: top left, center center; */
 	}
 
 /* Two */
