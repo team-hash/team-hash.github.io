@@ -2253,6 +2253,20 @@ input, select, textarea {
 		background-size: cover;
 	}
 
+	#intro {
+		background: url("backlit-clouds-dusk-853168.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	#three {
+		background: url("business-camera-coffee-1509428.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
 /* One */
 
 	#one {
