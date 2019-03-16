@@ -2238,7 +2238,7 @@ input, select, textarea {
 
 
 	#zero {
-		background: url("teamhash extra 4.jpg");
+		background: url("4k-wallpaper-apple-device-cellphone-1420702.jpg");
 		/* url("../../images/one.jpg"); */
 		background-position: center;
 		background-repeat: no-repeat;
@@ -2256,7 +2256,8 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("treamhashpage 2 b.jpg");
+		background: url("4k-wallpaper-ballpen-close-up-1174122.jpg");
+		
 		/* url("../../images/one.jpg"); */
 		background-position: center;
 		background-repeat: no-repeat;
@@ -2269,10 +2270,13 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
-		background-size: 256px 256px, cover;
+		background: url("4k-wallpaper-beans-beverage-1749303.jpg"), url("../../images/two.jpg");
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		/* background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+		background-position: top left, center center; */
 	}
 
 /* Contact */
