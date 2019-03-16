@@ -2334,3 +2334,9 @@ input, select, textarea {
 			}
 
 		}
+
+		.image fit {
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		}
